@@ -1,5 +1,5 @@
 # GUI-for-Lammps
-A GUI to integrate the energy of beams on a user-define curve
+A GUI that can be used to integrate the energy of beams on a user-defined curve.
 --------------------------
 To readfile, using:
 
